@@ -1,0 +1,11 @@
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\bin\Debug\netcoreapp3.0\MARS.exe
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\bin\Debug\netcoreapp3.0\MARS.deps.json
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\bin\Debug\netcoreapp3.0\MARS.runtimeconfig.json
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\bin\Debug\netcoreapp3.0\MARS.runtimeconfig.dev.json
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\bin\Debug\netcoreapp3.0\MARS.dll
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\bin\Debug\netcoreapp3.0\MARS.pdb
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\obj\Debug\netcoreapp3.0\MARS.csprojAssemblyReference.cache
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\obj\Debug\netcoreapp3.0\MARS.AssemblyInfoInputs.cache
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\obj\Debug\netcoreapp3.0\MARS.AssemblyInfo.cs
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\obj\Debug\netcoreapp3.0\MARS.dll
+C:\Users\muhammedçağrı\source\repos\MARS\MARS\obj\Debug\netcoreapp3.0\MARS.pdb
